@@ -6,5 +6,10 @@
   "description": "PWA Studio extension template",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/GabrielFNLima/pwa-extension-template/issues"
+  },
+  "repository": "github:GabrielFNLima/pwa-extension-template",
+  "homepage": "https://github.com/GabrielFNLima/pwa-extension-template#readme"
 }
