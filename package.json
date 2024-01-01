@@ -1,0 +1,10 @@
+{
+  "name": "@devgfnl/pwa-extension-template",
+  "author": "Gabriel Lima <gabriel.lima@devgfnl.com>",
+  "version": "0.0.4",
+  "license": "UNLICENSED",
+  "description": "PWA Studio extension template",
+  "publishConfig": {
+    "access": "public"
+  }
+}
