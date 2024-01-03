@@ -7,7 +7,7 @@
   "main": "lib/index.js",
   "pwa-studio": {
     "targets": {
-      "intercept": "intercept.js"
+      "intercept": "lib/targets/intercept.js"
     }
   },
   "scripts": {
