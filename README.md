@@ -2,6 +2,9 @@
 
 This template provides a basic structure to kickstart your PWA Studio extension development efficiently. Be sure to refer to the [create-pwa-studio-extension](https://github.com/larsroettig/create-pwa-studio-extension/) documentation for more details on the PWA Studio extension creation process.
 
+### Vscode Extension
+[PWA Studio Generator](https://marketplace.visualstudio.com/items?itemName=devgfnl.vscode-pwa-studio-generator)
+
 ### How to use
 To create an extension using this template, follow the steps below:
 
